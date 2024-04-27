@@ -7,7 +7,7 @@
     "target": "ESNext",
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node16"
   },
   "include": [
     "app.ts"
